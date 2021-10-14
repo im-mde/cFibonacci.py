@@ -1,0 +1,1 @@
+from cFibonacci.fibonaccimodule import fibonacci
